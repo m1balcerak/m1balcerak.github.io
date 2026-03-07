@@ -13,7 +13,7 @@ Profiles: [Google Scholar](https://scholar.google.com/citations?user=xNOcwM4AAAA
 
 ## Background
 
-My research focuses on inverse problems and generative AI. I am also a Fellow at Harvard University (Prof. Petros Koumoutsakos Lab), and previously worked at CERN (ATLAS) building a machine learning framework for collision topology identification at the LHC.
+My research focuses on inverse problems and generative AI. I was a Fellow at Harvard University (2023-2024, Prof. Petros Koumoutsakos Lab), and previously worked at CERN (ATLAS) building a machine learning framework for collision topology identification at the LHC.
 
 ## News and Highlights
 
