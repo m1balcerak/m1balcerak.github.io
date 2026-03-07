@@ -22,4 +22,5 @@ Profiles: [Google Scholar](https://scholar.google.com/citations?user=xNOcwM4AAAA
 
 ## News and Highlights
 
-- Featured talk at [Frontiers of Flows for Generative AI](https://cmu-l3.github.io/flows2026/) (MFAI Workshop, Spring 2026, March 26-27, Carnegie Mellon University, Pittsburgh, PA).
+- Featured talk at <a class="no-bold-link" href="https://cmu-l3.github.io/flows2026/">Frontiers of Flows for Generative AI</a> (MFAI Workshop, Spring 2026, March 26-27, Carnegie Mellon University, Pittsburgh, PA).
+- Highlight: [Energy Matching](https://github.com/m1balcerak/EnergyMatching) crossed 200+ GitHub stars.

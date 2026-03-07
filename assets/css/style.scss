@@ -1,0 +1,11 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+a.no-bold-link,
+a.no-bold-link:hover,
+a.no-bold-link:focus,
+a.no-bold-link:active {
+  font-weight: 400 !important;
+}
