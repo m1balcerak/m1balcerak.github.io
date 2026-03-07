@@ -9,3 +9,11 @@ a.no-bold-link:focus,
 a.no-bold-link:active {
   font-weight: 400 !important;
 }
+
+header .profile-photo {
+  display: block;
+  width: 220px;
+  max-width: 100%;
+  margin: 0 0 16px;
+  border-radius: 6px;
+}
