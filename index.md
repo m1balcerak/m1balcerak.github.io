@@ -3,7 +3,7 @@ layout: default
 title: Michal Balcerak
 ---
 
-Hello, I am Michal Balcerak. I am pursuing a PhD in AI at the University of Zurich and ETH AI Center, advised by Prof. Bjoern Menze.
+Hello, I am Michal Balcerak. I am a PhD Candidate in AI at the University of Zurich and ETH AI Center, advised by Prof. Bjoern Menze.
 
 📍 I'm currently based in Zürich, Switzerland.
 
