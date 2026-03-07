@@ -11,14 +11,9 @@ Email: `m1balcerak[at]gmail.com`
 
 Profiles: [Google Scholar](https://scholar.google.com/citations?user=xNOcwM4AAAAJ&hl=en) · [GitHub](https://github.com/m1balcerak) · [LinkedIn](https://www.linkedin.com/in/michal-balcerak-a7180717b/)
 
-## During the PhD
+## Background
 
-- Research focus: inverse problems and generative AI.
-- Fellow at Harvard University (Prof. Petros Koumoutsakos Lab), working on inverse problems in biology and PDE-constrained optimization.
-
-## Prior to the PhD
-
-- Student Researcher at CERN (ATLAS), where I built a machine learning framework for identifying collision topologies at the LHC.
+My research focuses on inverse problems and generative AI. I am also a Fellow at Harvard University (Prof. Petros Koumoutsakos Lab), and previously worked at CERN (ATLAS) building a machine learning framework for collision topology identification at the LHC.
 
 ## News and Highlights
 
