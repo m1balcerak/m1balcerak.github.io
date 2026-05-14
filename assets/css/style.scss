@@ -18,6 +18,22 @@ header .profile-photo {
   border-radius: 6px;
 }
 
+section h2 {
+  margin: 28px 0 12px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #8ea08d;
+  color: #2f4a37;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+section h2:first-child {
+  margin-top: 0;
+}
+
 @media print, screen and (min-width: 961px) {
   .wrapper {
     width: calc(100% - 80px);
@@ -37,6 +53,34 @@ header .profile-photo {
 .news-highlights {
   width: 100%;
   margin-top: 14px;
+}
+
+.research-highlights {
+  display: grid;
+  gap: 0;
+  margin-top: 12px;
+}
+
+.research-topic {
+  padding: 12px 0;
+  border-top: 1px solid #bdbdbd;
+}
+
+.research-topic:first-child {
+  border-top: 0;
+}
+
+.research-topic h3 {
+  margin: 0 0 4px;
+  color: #222;
+  font-size: 16px;
+  line-height: 1.25;
+}
+
+.research-topic p {
+  margin: 0;
+  color: #555;
+  line-height: 1.4;
 }
 
 .highlight-item {
@@ -60,6 +104,10 @@ header .profile-photo {
 
 .highlight-item--paper {
   display: block;
+}
+
+.publication-text {
+  padding: 14px 0;
 }
 
 .highlight-figure {
