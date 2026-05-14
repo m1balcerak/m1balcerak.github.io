@@ -21,8 +21,8 @@ My research focuses on inverse problems and generative AI. I was a Fellow at Har
 <article class="highlight-item highlight-item--paper">
 <div class="highlight-copy">
 <h3>Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation</h3>
-<p class="highlight-authors"><span class="author-me">Michal Balcerak</span><sup>&#42;</sup>, Suprosana Shit<sup>&#42;</sup>, Chinmay Prabhakar, Sebastian Kaltenbach, Michael S. Albergo, Yilun Du<sup>†</sup>, Bjoern Menze<sup>†</sup></p>
-<p class="author-note"><sup>&#42;</sup> equal contribution, <sup>†</sup> equal advising.</p>
+<p class="highlight-authors"><span class="author-me">Michal Balcerak</span>, Suprosana Shit, Chinmay Prabhakar, Sebastian Kaltenbach, Michael S. Albergo, Yilun Du<sup>†</sup>, Bjoern Menze<sup>†</sup></p>
+<p class="author-note"><sup>†</sup> equal advising.</p>
 <p class="highlight-links"><strong>arXiv 2026</strong> / <a href="https://arxiv.org/abs/2603.23398">Paper</a> / <a href="https://github.com/m1balcerak/GraphEnergyMatching">Code</a></p>
 </div>
 <a class="highlight-figure" href="https://arxiv.org/abs/2603.23398">
