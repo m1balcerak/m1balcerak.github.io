@@ -81,7 +81,7 @@ I'm currently based in Zürich, Switzerland.
 <p class="highlight-links"><strong>Nature Communications 2025</strong> / <a href="https://rdcu.be/eujFb">Paper</a> / <a href="https://github.com/m1balcerak/GliODIL">Code</a></p>
 </div>
 <a class="highlight-figure" href="https://rdcu.be/eujFb">
-<img src="{{ '/assets/news/gliodil.jpeg' | relative_url }}" alt="GliODIL spatio-temporal tumor cell distribution over time">
+<img src="{{ '/assets/news/gliodil.png' | relative_url }}" alt="GliODIL spatio-temporal tumor cell distribution over time">
 </a>
 </article>
 
@@ -91,8 +91,5 @@ I'm currently based in Zürich, Switzerland.
 <p class="highlight-authors"><span class="author-me">Michal Balcerak</span>, Tamaz Amiranashvili, Andreas Wagner, Jonas Weidner, Petr Karnakov, Johannes C. Paetzold, Ivan Ezhov, Petros Koumoutsakos, Benedikt Wiestler, Bjoern Menze</p>
 <p class="highlight-links"><strong>NeurIPS 2024</strong> / <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/49fb58cfd482a33619d48a5c5910cf3c-Paper-Conference.pdf">Paper</a> / <a href="https://github.com/m1balcerak/PhysRegTumor">Code</a></p>
 </div>
-<a class="highlight-figure" href="https://proceedings.neurips.cc/paper_files/paper/2024/file/49fb58cfd482a33619d48a5c5910cf3c-Paper-Conference.pdf">
-<img src="{{ '/assets/news/physreg.jpeg' | relative_url }}" alt="Physics-regularized brain tumor localization inferred anatomy and parameters">
-</a>
 </article>
 </div>
