@@ -5,15 +5,17 @@ title: Michal Balcerak
 
 ## About Me
 
-Hello, I am Michal Balcerak. I am a PhD Candidate in AI at the University of Zurich and ETH AI Center, advised by Prof. Bjoern Menze.
+Hello, I am Michal Balcerak. I am a PhD Candidate in AI at the University of Zurich and ETH AI Center, advised by Prof. Bjoern Menze. My research focuses on probabilistic inference for generative modeling and inverse problems, combining optimal transport, energy-based models, and physics-informed priors. I was a Fellow at Harvard University (2023-2024, Prof. Petros Koumoutsakos Lab), and previously worked at CERN (ATLAS) building a machine learning framework for collision topology identification at the LHC.
 
 I'm currently based in Zürich, Switzerland.
 
 Email: `m1balcerak[at]gmail.com`
 
-Profiles: [Google Scholar](https://scholar.google.com/citations?user=xNOcwM4AAAAJ&hl=en) · [GitHub](https://github.com/m1balcerak) · [LinkedIn](https://www.linkedin.com/in/michal-balcerak-a7180717b/)
+Socials: [LinkedIn](https://www.linkedin.com/in/michal-balcerak-a7180717b/) · [Twitter/X](https://x.com/X_MichalB)
 
-My research focuses on probabilistic inference for generative modeling and inverse problems, combining optimal transport, energy-based models, and physics-informed priors. I was a Fellow at Harvard University (2023-2024, Prof. Petros Koumoutsakos Lab), and previously worked at CERN (ATLAS) building a machine learning framework for collision topology identification at the LHC.
+GitHub: [m1balcerak](https://github.com/m1balcerak)
+
+Google Scholar: [Profile](https://scholar.google.com/citations?user=xNOcwM4AAAAJ&hl=en)
 
 ## News
 
