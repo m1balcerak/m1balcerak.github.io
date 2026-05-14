@@ -11,11 +11,13 @@ I'm currently based in Zürich, Switzerland.
 
 Email: `m1balcerak[at]gmail.com`
 
-Socials: [LinkedIn](https://www.linkedin.com/in/michal-balcerak-a7180717b/) · [Twitter/X](https://x.com/X_MichalB)
+<div class="profile-links">
+Google Scholar: [Profile](https://scholar.google.com/citations?user=xNOcwM4AAAAJ&hl=en)
 
 GitHub: [m1balcerak](https://github.com/m1balcerak)
 
-Google Scholar: [Profile](https://scholar.google.com/citations?user=xNOcwM4AAAAJ&hl=en)
+Socials: [LinkedIn](https://www.linkedin.com/in/michal-balcerak-a7180717b/) · [Twitter/X](https://x.com/X_MichalB)
+</div>
 
 ## News
 
