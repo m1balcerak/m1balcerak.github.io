@@ -9,14 +9,11 @@ Hello, I am Michal Balcerak. I am a PhD Candidate in AI at the University of Zur
 
 I'm currently based in Zürich, Switzerland.
 
-Email: `m1balcerak[at]gmail.com`
-
 <div class="profile-links">
-Google Scholar: [Profile](https://scholar.google.com/citations?user=xNOcwM4AAAAJ&hl=en)
-
-GitHub: [m1balcerak](https://github.com/m1balcerak)
-
-Socials: [LinkedIn](https://www.linkedin.com/in/michal-balcerak-a7180717b/) · [Twitter/X](https://x.com/X_MichalB)
+<p>Email: <code>m1balcerak[at]gmail.com</code></p>
+<p>Google Scholar: <a href="https://scholar.google.com/citations?user=xNOcwM4AAAAJ&hl=en">Profile</a></p>
+<p>GitHub: <a href="https://github.com/m1balcerak">m1balcerak</a></p>
+<p>Socials: <a href="https://www.linkedin.com/in/michal-balcerak-a7180717b/">LinkedIn</a> · <a href="https://x.com/X_MichalB">Twitter/X</a></p>
 </div>
 
 ## News
@@ -77,19 +74,25 @@ Socials: [LinkedIn](https://www.linkedin.com/in/michal-balcerak-a7180717b/) · [
 </a>
 </article>
 
-<article class="highlight-item highlight-item--text publication-text">
+<article class="highlight-item highlight-item--paper">
 <div class="highlight-copy">
 <h3>Individualizing Glioma Radiotherapy Planning by Optimization of a Data- and Physics-Informed Discrete Loss</h3>
-<p class="highlight-authors"><span class="author-me">Michal Balcerak</span> et al.</p>
+<p class="highlight-authors"><span class="author-me">Michal Balcerak</span>, Jonas Weidner, Petr Karnakov, Ivan Ezhov, Sergey Litvinov, Petros Koumoutsakos, Tamaz Amiranashvili, Ray Zirui Zhang, John S. Lowengrub, Igor Yakushev, Benedikt Wiestler, Bjoern Menze</p>
 <p class="highlight-links"><strong>Nature Communications 2025</strong> / <a href="https://rdcu.be/eujFb">Paper</a> / <a href="https://github.com/m1balcerak/GliODIL">Code</a></p>
 </div>
+<a class="highlight-figure" href="https://rdcu.be/eujFb">
+<img src="{{ '/assets/news/gliodil.jpeg' | relative_url }}" alt="GliODIL spatio-temporal tumor cell distribution over time">
+</a>
 </article>
 
-<article class="highlight-item highlight-item--text publication-text">
+<article class="highlight-item highlight-item--paper">
 <div class="highlight-copy">
 <h3>Physics-Regularized Multi-Modal Image Assimilation for Brain Tumor Localization</h3>
-<p class="highlight-authors"><span class="author-me">Michal Balcerak</span> et al.</p>
+<p class="highlight-authors"><span class="author-me">Michal Balcerak</span>, Tamaz Amiranashvili, Andreas Wagner, Jonas Weidner, Petr Karnakov, Johannes C. Paetzold, Ivan Ezhov, Petros Koumoutsakos, Benedikt Wiestler, Bjoern Menze</p>
 <p class="highlight-links"><strong>NeurIPS 2024</strong> / <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/49fb58cfd482a33619d48a5c5910cf3c-Paper-Conference.pdf">Paper</a> / <a href="https://github.com/m1balcerak/PhysRegTumor">Code</a></p>
 </div>
+<a class="highlight-figure" href="https://proceedings.neurips.cc/paper_files/paper/2024/file/49fb58cfd482a33619d48a5c5910cf3c-Paper-Conference.pdf">
+<img src="{{ '/assets/news/physreg.jpeg' | relative_url }}" alt="Physics-regularized brain tumor localization inferred anatomy and parameters">
+</a>
 </article>
 </div>
