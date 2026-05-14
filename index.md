@@ -39,7 +39,7 @@ I'm currently based in Zürich, Switzerland.
 <div class="research-highlights">
 <article class="research-topic">
 <h3>Generative Modeling</h3>
-<p>Energy-based generative models and optimal-transport training objectives for controllable sampling, learned priors, and discrete graph generation.</p>
+<p>Energy-based generative models and optimal-transport training objectives for controllable sampling, learned priors, and composable generation.</p>
 </article>
 
 <article class="research-topic">
