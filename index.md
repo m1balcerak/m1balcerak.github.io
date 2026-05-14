@@ -22,7 +22,7 @@ I'm currently based in Zürich, Switzerland.
 <article class="highlight-item highlight-item--text">
 <div class="highlight-copy">
 <h3>Featured talk at Frontiers of Flows for Generative AI</h3>
-<p class="highlight-links"><strong>MFAI Workshop, Spring 2026</strong> / <a href="https://cmu-l3.github.io/flows2026/">Workshop</a></p>
+<p class="highlight-links"><strong>MFAI Workshop, Spring 2026, Carnegie Mellon University</strong> / <a href="https://cmu-l3.github.io/flows2026/">Workshop</a></p>
 </div>
 </article>
 
