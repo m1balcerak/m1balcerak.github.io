@@ -17,3 +17,92 @@ header .profile-photo {
   margin: 0 0 16px;
   border-radius: 6px;
 }
+
+@media print, screen and (min-width: 961px) {
+  .wrapper {
+    width: calc(100% - 80px);
+    max-width: 1120px;
+  }
+
+  header,
+  footer {
+    width: 250px;
+  }
+
+  section {
+    width: calc(100% - 310px);
+  }
+}
+
+.news-highlights {
+  width: 100%;
+  margin-top: 14px;
+}
+
+.highlight-item {
+  display: grid;
+  grid-template-columns: 230px minmax(0, 1fr);
+  gap: 18px;
+  align-items: start;
+  padding: 18px 0;
+  border-top: 1px solid #e5e5e5;
+}
+
+.highlight-item:first-child {
+  padding-top: 4px;
+  border-top: 0;
+}
+
+.highlight-item--text {
+  display: block;
+  padding: 13px 0;
+}
+
+.highlight-item--paper {
+  display: block;
+}
+
+.highlight-figure {
+  display: block;
+  margin-top: 10px;
+  line-height: 0;
+}
+
+.highlight-figure img {
+  display: block;
+  width: 100%;
+  background: #fff;
+  border: 1px solid #ececec;
+  border-radius: 4px;
+}
+
+.highlight-copy h3 {
+  margin: 0 0 5px;
+  color: #222;
+  font-size: 16px;
+  line-height: 1.25;
+}
+
+.highlight-copy p {
+  margin: 0 0 4px;
+  line-height: 1.35;
+}
+
+.highlight-authors {
+  color: #5b5b5b;
+}
+
+.highlight-links {
+  color: #333;
+}
+
+.highlight-links a {
+  color: #3c5f34;
+  font-weight: 400;
+}
+
+@media print, screen and (max-width: 720px) {
+  .highlight-item {
+    display: block;
+  }
+}
