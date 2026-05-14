@@ -92,6 +92,25 @@ header .profile-photo {
   color: #5b5b5b;
 }
 
+.author-me {
+  color: #9a3d22;
+  font-weight: 400;
+  background: #fff0e8;
+  border-bottom: 1px solid #d9a08a;
+  border-radius: 3px;
+  padding: 0 2px;
+}
+
+.author-note {
+  color: #6c6c6c;
+  font-size: 13px;
+}
+
+.highlight-authors sup,
+.author-note sup {
+  line-height: 0;
+}
+
 .highlight-links {
   color: #333;
 }

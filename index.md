@@ -15,13 +15,14 @@ Profiles: [Google Scholar](https://scholar.google.com/citations?user=xNOcwM4AAAA
 
 My research focuses on inverse problems and generative AI. I was a Fellow at Harvard University (2023-2024, Prof. Petros Koumoutsakos Lab), and previously worked at CERN (ATLAS) building a machine learning framework for collision topology identification at the LHC.
 
-## News and Highlights
+## News and Publications
 
 <div class="news-highlights">
 <article class="highlight-item highlight-item--paper">
 <div class="highlight-copy">
-<h3>Released Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation</h3>
-<p class="highlight-authors"><strong>Michal Balcerak</strong>, Suprosana Shit, Chinmay Prabhakar, Sebastian Kaltenbach, Michael S. Albergo, Yilun Du, Bjoern Menze</p>
+<h3>Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation</h3>
+<p class="highlight-authors"><span class="author-me">Michal Balcerak</span><sup>&#42;</sup>, Suprosana Shit<sup>&#42;</sup>, Chinmay Prabhakar, Sebastian Kaltenbach, Michael S. Albergo, Yilun Du<sup>†</sup>, Bjoern Menze<sup>†</sup></p>
+<p class="author-note"><sup>&#42;</sup> equal contribution, <sup>†</sup> equal advising.</p>
 <p class="highlight-links"><strong>arXiv 2026</strong> / <a href="https://arxiv.org/abs/2603.23398">Paper</a> / <a href="https://github.com/m1balcerak/GraphEnergyMatching">Code</a></p>
 </div>
 <a class="highlight-figure" href="https://arxiv.org/abs/2603.23398">
@@ -46,7 +47,7 @@ My research focuses on inverse problems and generative AI. I was a Fellow at Har
 <article class="highlight-item highlight-item--paper">
 <div class="highlight-copy">
 <h3>Energy Matching published at NeurIPS 2025</h3>
-<p class="highlight-authors"><strong>Michal Balcerak</strong>, Tamaz Amiranashvili, Antonio Terpin, Suprosanna Shit, Lea Bogensperger, Sebastian Kaltenbach, Petros Koumoutsakos, Bjoern Menze</p>
+<p class="highlight-authors"><span class="author-me">Michal Balcerak</span>, Tamaz Amiranashvili, Antonio Terpin, Suprosanna Shit, Lea Bogensperger, Sebastian Kaltenbach, Petros Koumoutsakos, Bjoern Menze</p>
 <p class="highlight-links"><strong>NeurIPS 2025</strong> / <a href="https://papers.nips.cc/paper_files/paper/2025/file/0cbbdfb0a4098af8dc7a497a5e59aff7-Paper-Conference.pdf">Paper</a> / <a href="https://github.com/m1balcerak/EnergyMatching">Code</a></p>
 </div>
 <a class="highlight-figure" href="https://papers.nips.cc/paper_files/paper/2025/file/0cbbdfb0a4098af8dc7a497a5e59aff7-Paper-Conference.pdf">
