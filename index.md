@@ -48,7 +48,7 @@ I'm currently based in Zürich, Switzerland.
 </article>
 </div>
 
-## Publications
+## Selected Publications
 
 <div class="news-highlights publications-list">
 <article class="highlight-item highlight-item--paper">
