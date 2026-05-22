@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 title: Graph Energy Matching
 ---
 
@@ -7,7 +7,7 @@ title: Graph Energy Matching
 
 **Transport-Aligned Energy-Based Modeling for Graph Generation**
 
-<p class="project-authors"><span class="author-me">Michal Balcerak</span>, Suprosana Shit, Chinmay Prabhakar, Sebastian Kaltenbach, Michael S. Albergo, Yilun Du, Bjoern Menze</p>
+<p class="project-authors">Michal Balcerak, Suprosana Shit, Chinmay Prabhakar, Sebastian Kaltenbach, Michael S. Albergo, Yilun Du, Bjoern Menze</p>
 
 <p class="project-links"><strong>Preprint 2026</strong> / <a href="https://arxiv.org/abs/2603.23398">Paper</a> / <span class="resource-status">Code coming soon</span></p>
 
