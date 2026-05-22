@@ -181,6 +181,33 @@ section h2:first-child {
   font-weight: 400;
 }
 
+.project-authors {
+  color: #5b5b5b;
+  line-height: 1.35;
+}
+
+.project-links {
+  color: #333;
+}
+
+.project-links a {
+  color: #3c5f34;
+  font-weight: 400;
+}
+
+.resource-status {
+  color: #6c6c6c;
+}
+
+.project-hero-image {
+  display: block;
+  width: 100%;
+  margin: 16px 0 24px;
+  background: #fff;
+  border: 1px solid #ececec;
+  border-radius: 4px;
+}
+
 @media print, screen and (max-width: 720px) {
   section {
     padding-left: 12px;
