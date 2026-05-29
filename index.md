@@ -60,7 +60,7 @@ I'm currently based in Zürich, Switzerland.
 <p class="highlight-links"><strong>Preprint 2026</strong> / <a href="{{ '/graph-energy-matching/' | relative_url }}">Project</a> / <a href="https://arxiv.org/abs/2603.23398">Paper</a> / <span class="resource-status">Code coming soon</span></p>
 </div>
 <a class="highlight-figure" href="{{ '/graph-energy-matching/' | relative_url }}">
-<img src="{{ '/assets/news/gem-overview.jpeg' | relative_url }}" alt="Graph Energy Matching sampling overview">
+<img src="{{ '/assets/news/gem_higher.png' | relative_url }}" alt="Graph Energy Matching sampling overview">
 </a>
 </article>
 
