@@ -71,7 +71,7 @@ I'm currently based in Zürich, Switzerland.
 <p class="highlight-links"><strong>NeurIPS 2025</strong> / <a href="https://papers.nips.cc/paper_files/paper/2025/file/0cbbdfb0a4098af8dc7a497a5e59aff7-Paper-Conference.pdf">Paper</a> / <a href="https://github.com/m1balcerak/EnergyMatching">Code</a></p>
 </div>
 <a class="highlight-figure" href="https://papers.nips.cc/paper_files/paper/2025/file/0cbbdfb0a4098af8dc7a497a5e59aff7-Paper-Conference.pdf">
-<img src="{{ '/assets/news/em.jpeg' | relative_url }}" alt="Energy Matching trajectories comparing flow matching and energy-based methods">
+<img src="{{ '/assets/news/em_hires.png' | relative_url }}" alt="Energy Matching trajectories comparing flow matching and energy-based methods">
 </a>
 </article>
 
@@ -83,7 +83,7 @@ I'm currently based in Zürich, Switzerland.
 <p class="highlight-links"><strong>Nature Communications 2025</strong> / <a href="https://rdcu.be/eujFb">Paper</a> / <a href="https://github.com/m1balcerak/GliODIL">Code</a></p>
 </div>
 <a class="highlight-figure" href="https://rdcu.be/eujFb">
-<img src="{{ '/assets/news/gliodil.png' | relative_url }}" alt="GliODIL spatio-temporal tumor cell distribution over time">
+<img src="{{ '/assets/news/gliodil_growth_hires.png' | relative_url }}" alt="GliODIL spatio-temporal tumor cell distribution over time">
 </a>
 </article>
 
