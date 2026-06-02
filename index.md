@@ -11,10 +11,8 @@ I'm currently based in Zürich, Switzerland.
 
 <div class="profile-links">
 <p>Email: <code>m1balcerak[at]gmail.com</code></p>
-<p>Google Scholar: <a href="https://scholar.google.com/citations?user=xNOcwM4AAAAJ&hl=en">Profile</a></p>
-<p>GitHub: <a href="https://github.com/m1balcerak">m1balcerak</a></p>
-<p>Socials: <a href="https://www.linkedin.com/in/michal-balcerak-a7180717b/">LinkedIn</a> · <a href="https://x.com/X_MichalB">Twitter/X</a></p>
-<p>Documents: <a href="{{ '/assets/docs/cv.pdf' | relative_url }}">CV</a> · <a href="{{ '/assets/docs/research_statement.pdf' | relative_url }}">Research Statement</a></p>
+<p><a href="https://scholar.google.com/citations?user=xNOcwM4AAAAJ&hl=en">Google Scholar</a> · <a href="https://github.com/m1balcerak">GitHub</a> · <a href="https://www.linkedin.com/in/michal-balcerak-a7180717b/">LinkedIn</a> · <a href="https://x.com/X_MichalB">Twitter/X</a></p>
+<p><a href="{{ '/assets/docs/cv.pdf' | relative_url }}">CV</a> · <a href="{{ '/assets/docs/research_statement.pdf' | relative_url }}">Research Statement</a></p>
 </div>
 
 ## News
@@ -55,7 +53,7 @@ I'm currently based in Zürich, Switzerland.
 <article class="highlight-item highlight-item--paper">
 <div class="highlight-copy">
 <h3>Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation</h3>
-<p class="highlight-authors"><span class="author-me">Michal Balcerak</span>, Suprosana Shit, Chinmay Prabhakar, Sebastian Kaltenbach, Michael S. Albergo, Yilun Du<sup>†</sup>, Bjoern Menze<sup>†</sup></p>
+<p class="highlight-authors"><span class="author-me">Michal Balcerak</span>, Suprosanna Shit, Chinmay Prabhakar, Sebastian Kaltenbach, Michael S. Albergo, Yilun Du<sup>†</sup>, Bjoern Menze<sup>†</sup></p>
 <p class="author-note"><sup>†</sup> equal advising.</p>
 <p class="highlight-links"><strong>Preprint 2026</strong> / <a href="{{ '/graph-energy-matching/' | relative_url }}">Project</a> / <a href="https://arxiv.org/abs/2603.23398">Paper</a> / <span class="resource-status">Code coming soon</span></p>
 </div>
