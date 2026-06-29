@@ -9,7 +9,7 @@ title: Graph Energy Matching
 
 <p class="project-authors"><a href="https://michalbalcerak.ai/">Michal Balcerak</a>, <a href="https://www.dqbm.uzh.ch/en/research/menze/team/team-supro.html">Suprosanna Shit</a>, <a href="https://www.dqbm.uzh.ch/en/research/menze/team/team-chinmay.html">Chinmay Prabhakar</a>, <a href="https://seas.harvard.edu/person/sebastian-kaltenbach">Sebastian Kaltenbach</a>, <a href="https://malbergo.me/">Michael S. Albergo</a>, <a href="https://yilundu.github.io/">Yilun Du</a>, <a href="https://www.dqbm.uzh.ch/en/research/menze.html">Bjoern Menze</a></p>
 
-<p class="project-links"><strong>Preprint 2026</strong> / <a href="https://arxiv.org/abs/2603.23398">arXiv</a> / <span class="resource-status">Code coming soon</span></p>
+<p class="project-links"><strong>Preprint 2026</strong> / <a href="https://arxiv.org/abs/2603.23398">arXiv</a> / <a href="https://github.com/m1balcerak/GraphEnergyMatching">Code</a></p>
 
 <img class="project-hero-image" src="{{ '/assets/news/gem_moses_animation.gif' | relative_url }}" alt="Graph Energy Matching MOSES sampling animation">
 
@@ -19,7 +19,7 @@ Generative modeling of discrete data, such as graphs, underpins many scientific 
 
 ## Resources
 
-<p class="project-links"><a href="https://arxiv.org/abs/2603.23398">arXiv</a> / <span class="resource-status">Code coming soon</span></p>
+<p class="project-links"><a href="https://arxiv.org/abs/2603.23398">arXiv</a> / <a href="https://github.com/m1balcerak/GraphEnergyMatching">Code</a></p>
 
 ## Citation
 
