@@ -11,7 +11,7 @@ title: Graph Energy Matching
 
 <p class="project-links"><strong>Preprint 2026</strong> / <a href="https://arxiv.org/abs/2603.23398">arXiv</a> / <span class="resource-status">Code coming soon</span></p>
 
-<img class="project-hero-image" src="{{ '/assets/news/gem_higher.png' | relative_url }}" alt="Graph Energy Matching sampling overview">
+<img class="project-hero-image" src="{{ '/assets/news/gem_moses_animation.gif' | relative_url }}" alt="Graph Energy Matching MOSES sampling animation">
 
 ## Abstract
 
