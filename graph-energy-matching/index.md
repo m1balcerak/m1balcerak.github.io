@@ -11,7 +11,10 @@ title: Graph Energy Matching
 
 <p class="project-links"><strong>Preprint 2026</strong> / <a href="https://arxiv.org/abs/2603.23398">arXiv</a> / <a href="https://github.com/m1balcerak/GraphEnergyMatching">Code</a></p>
 
-<img class="project-hero-image" src="{{ '/assets/news/gem_moses_animation.gif' | relative_url }}" alt="Graph Energy Matching MOSES sampling animation">
+<video class="project-hero-image" autoplay loop muted playsinline controls>
+  <source src="{{ '/assets/news/gem_moses_animation.mp4' | relative_url }}" type="video/mp4">
+  Graph Energy Matching MOSES sampling animation.
+</video>
 
 ## Abstract
 
