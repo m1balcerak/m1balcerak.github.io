@@ -39,6 +39,8 @@ Generative modeling of discrete data, such as graphs, underpins many scientific 
 
 ## Sampling
 
+GEM learns a scalar energy landscape over graphs and samples through transport-aligned discrete proposals that rapidly move noisy graphs toward molecule-like regions, followed by local edits that refine and explore.
+
 <img class="project-hero-image" src="{{ '/assets/news/gem_moses_animation.gif' | relative_url }}" alt="Graph Energy Matching MOSES sampling animation">
 
 ## Citation
