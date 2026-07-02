@@ -13,11 +13,11 @@
     {% include head-custom.html %}
   </head>
   <body class="project-body">
+    <nav class="project-topbar" aria-label="Project navigation">
+      <a href="{{ "/" | relative_url }}">Back to homepage</a>
+    </nav>
     <main class="project-page">
       {{ content }}
     </main>
-    <footer class="project-footer">
-      <p><small><a href="{{ "/" | relative_url }}">Back to homepage</a></small></p>
-    </footer>
   </body>
 </html>

@@ -186,6 +186,87 @@ section h2:first-child {
   line-height: 1.35;
 }
 
+.project-authors sup,
+.project-affiliations sup,
+.project-author-note sup {
+  line-height: 0;
+}
+
+.project-affiliations,
+.project-author-note {
+  margin: 2px 0;
+  color: #6c6c6c;
+  font-size: 14px;
+  line-height: 1.35;
+}
+
+.project-venue {
+  margin: 16px 0 8px;
+  color: #333;
+}
+
+.project-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 10px 0 18px;
+}
+
+.project-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 150px;
+  padding: 11px 14px;
+  color: #2f4a37;
+  background: #f4f7f2;
+  border: 1px solid #b9c8b5;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.project-action:hover,
+.project-action:focus {
+  color: #243a2b;
+  background: #edf3ea;
+  border-color: #8ea08d;
+  text-decoration: none;
+}
+
+.project-action strong,
+.project-action small {
+  display: block;
+  line-height: 1.15;
+}
+
+.project-action strong {
+  font-size: 16px;
+}
+
+.project-action small {
+  margin-top: 2px;
+  color: #5f6d5d;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.project-action-icon {
+  flex: 0 0 auto;
+  width: 26px;
+  height: 26px;
+}
+
+.project-action-icon--text {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  color: #9a3d22;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
 .project-links {
   color: #333;
 }
@@ -204,7 +285,19 @@ section h2:first-child {
 }
 
 .project-body {
-  padding: 42px 24px 28px;
+  padding: 24px 24px 28px;
+}
+
+.project-topbar {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto 22px;
+}
+
+.project-topbar a {
+  color: #3c5f34;
+  font-size: 14px;
+  font-weight: 400;
 }
 
 .project-page {
