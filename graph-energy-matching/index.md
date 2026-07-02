@@ -26,8 +26,6 @@ title: Graph Energy Matching
   </a>
 </div>
 
-<img class="project-hero-image" src="{{ '/assets/news/gem_moses_animation.gif' | relative_url }}" alt="Graph Energy Matching MOSES sampling animation">
-
 <figure class="project-method-figure">
   <a href="{{ '/assets/news/gem_higher.png' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the Graph Energy Matching sampling overview figure at full resolution">
     <img src="{{ '/assets/news/gem_higher.png' | relative_url }}" alt="Graph Energy Matching sampling overview showing the transport phase and mixing phase">
@@ -38,6 +36,10 @@ title: Graph Energy Matching
 ## Abstract
 
 Generative modeling of discrete data, such as graphs, underpins many scientific and industrial applications, including molecular discovery and materials design. In these domains, probabilistic inference is particularly valuable, as it enables composable generation and principled incorporation of desired constraints, such as structural or functional properties. Energy-based models naturally support this goal by capturing relative likelihoods and enabling composable inference by directly enforcing constraints during inference. However, discrete energy-based models typically struggle with efficient and high-quality sampling, as off-support regions often contain spurious local minima, trapping samplers and causing training instabilities, resulting in a fidelity gap compared to discrete diffusion models. To address this gap, we introduce <em>Graph Energy Matching (GEM)</em>, a discrete generative framework inspired by the Jordan&ndash;Kinderlehrer&ndash;Otto (JKO) transport-map optimization perspective. GEM learns a permutation-invariant potential energy that simultaneously guides discrete transport from noise toward high-likelihood graph regions and refines samples within these regions. We further introduce a sampling protocol leveraging an energy-based switching strategy, seamlessly bridging rapid, gradient-guided transport and a local mixing regime for effective exploration. On molecular graph benchmarks, GEM matches or surpasses strong discrete diffusion baselines on most reported metrics. Beyond improving generation quality, GEM's relative likelihood modeling enables targeted exploration, facilitating compositional generation, property-constrained sampling, and interpolation between graphs.
+
+## Sampling
+
+<img class="project-hero-image" src="{{ '/assets/news/gem_moses_animation.gif' | relative_url }}" alt="Graph Energy Matching MOSES sampling animation">
 
 ## Citation
 

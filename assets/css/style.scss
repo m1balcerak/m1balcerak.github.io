@@ -285,12 +285,8 @@ section h2:first-child {
 }
 
 .project-method-figure {
-  position: relative;
-  left: 50%;
-  width: calc(100vw - 48px);
-  max-width: 1080px;
+  width: 100%;
   margin: 18px 0 30px;
-  transform: translateX(-50%);
 }
 
 .project-method-figure a {
