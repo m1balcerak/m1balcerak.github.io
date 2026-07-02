@@ -284,6 +284,35 @@ section h2:first-child {
   border-radius: 4px;
 }
 
+.project-method-figure {
+  position: relative;
+  left: 50%;
+  width: calc(100vw - 48px);
+  max-width: 1080px;
+  margin: 18px 0 30px;
+  transform: translateX(-50%);
+}
+
+.project-method-figure a {
+  display: block;
+}
+
+.project-method-figure img {
+  display: block;
+  width: 100%;
+  background: #fff;
+  border: 1px solid #ececec;
+  border-radius: 4px;
+}
+
+.project-method-figure figcaption {
+  margin-top: 8px;
+  color: #555;
+  font-size: 14px;
+  line-height: 1.45;
+  text-align: center;
+}
+
 .project-body {
   padding: 24px 24px 28px;
 }
