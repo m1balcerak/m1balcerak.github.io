@@ -12,7 +12,7 @@ I'm currently based in Zürich, Switzerland.
 <div class="profile-links">
 <p>Email: <code>m1balcerak[at]gmail.com</code></p>
 <p><a href="https://scholar.google.com/citations?user=xNOcwM4AAAAJ&hl=en">Google Scholar</a> · <a href="https://github.com/m1balcerak">GitHub</a> · <a href="https://www.linkedin.com/in/michal-balcerak-a7180717b/">LinkedIn</a> · <a href="https://x.com/X_MichalB">Twitter/X</a></p>
-<p><a href="{{ '/assets/docs/Balcerak_Michal_CV_ver2.pdf' | relative_url }}">CV</a> · <a href="{{ '/assets/docs/research_statement.pdf' | relative_url }}">Research Statement</a> · <a href="{{ '/assets/docs/Balcerak_Michal_Personal_Statement_ver2.pdf' | relative_url }}">Personal Statement</a></p>
+<p><a href="{{ '/assets/docs/Balcerak_Michal_CV_ver2.pdf' | relative_url }}">CV</a> · <a href="{{ '/assets/docs/Balcerak_Michal_Personal_Statement_ver2.pdf' | relative_url }}">Personal Statement</a></p>
 </div>
 
 ## News
