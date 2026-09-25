@@ -46,10 +46,10 @@ GEM learns a scalar energy landscape over graphs and samples through transport-a
 ## Citation
 
 ```bibtex
-@inproceedings{balcerak2026graphenergymatching,
+@article{balcerak2026graphenergymatching,
   title={Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation},
   author={Balcerak, Michal and Shit, Suprosanna and Prabhakar, Chinmay and Kaltenbach, Sebastian and Albergo, Michael S. and Du, Yilun and Menze, Bjoern},
-  booktitle={Advances in Neural Information Processing Systems},
+  journal={arXiv preprint arXiv:2603.23398},
   year={2026}
 }
 ```
