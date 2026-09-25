@@ -12,7 +12,7 @@ title: Graph Energy Matching
 <p class="project-affiliations"><sup>1</sup> University of Zurich · <sup>2</sup> Harvard University · <sup>3</sup> Kempner Institute</p>
 <p class="project-author-note"><sup>†</sup> equal advising.</p>
 
-<p class="project-venue"><strong>Preprint 2026</strong></p>
+<p class="project-venue"><strong>NeurIPS 2026</strong></p>
 <div class="project-actions" aria-label="Graph Energy Matching resources">
   <a class="project-action" href="https://arxiv.org/pdf/2603.23398" aria-label="Read the Graph Energy Matching paper PDF on arXiv">
     <span class="project-action-icon project-action-icon--text" aria-hidden="true">arXiv</span>
@@ -46,10 +46,10 @@ GEM learns a scalar energy landscape over graphs and samples through transport-a
 ## Citation
 
 ```bibtex
-@article{balcerak2026graphenergymatching,
+@inproceedings{balcerak2026graphenergymatching,
   title={Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation},
   author={Balcerak, Michal and Shit, Suprosanna and Prabhakar, Chinmay and Kaltenbach, Sebastian and Albergo, Michael S. and Du, Yilun and Menze, Bjoern},
-  journal={arXiv preprint arXiv:2603.23398},
+  booktitle={Advances in Neural Information Processing Systems},
   year={2026}
 }
 ```
