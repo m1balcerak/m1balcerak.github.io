@@ -1,6 +1,22 @@
 ---
 layout: project
 title: Graph Energy Matching
+description: "Graph Energy Matching: transport-aligned energy-based modeling for molecular graph generation. NeurIPS 2026 paper, code, and pretrained checkpoints."
+citation:
+  title: "Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation"
+  authors:
+    - "Balcerak, Michal"
+    - "Shit, Suprosanna"
+    - "Prabhakar, Chinmay"
+    - "Kaltenbach, Sebastian"
+    - "Albergo, Michael S."
+    - "Du, Yilun"
+    - "Menze, Bjoern"
+  publication_date: "2026/03/24"
+  journal_title: "arXiv preprint arXiv:2603.23398"
+  doi: "10.48550/arXiv.2603.23398"
+  abstract_html_url: "https://arxiv.org/abs/2603.23398"
+  pdf_url: "https://arxiv.org/pdf/2603.23398"
 ---
 
 # Graph Energy Matching
