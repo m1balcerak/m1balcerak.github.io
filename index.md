@@ -5,7 +5,7 @@ title: Michal Balcerak
 
 ## About Me
 
-I am a Research Fellow at the Kempner Institute at Harvard University. My research focuses on probabilistic inference for generative modeling and inverse problems, combining optimal transport, energy-based models, and physics-informed priors.
+I am a Research Fellow at the Kempner Institute at Harvard University. I study the foundations of generative modeling and reasoning, focusing on sampling and probabilistic inference. My work draws on optimal transport theory and energy-based models.
 
 I completed my PhD in AI at the University of Zurich and ETH AI Center, advised by Prof. Bjoern Menze. Previously, I was a Fellow at Harvard University (2023-2024) in Prof. Petros Koumoutsakos's lab and worked at CERN (ATLAS), where I developed a machine-learning framework for collision-topology identification at the LHC.
 
@@ -49,20 +49,6 @@ I'm based in Boston, Massachusetts, USA.
 </div>
 <p class="highlight-links"><a href="https://github.com/m1balcerak/EnergyMatching">Code</a></p>
 </div>
-</article>
-</div>
-
-## Research Highlights
-
-<div class="research-highlights">
-<article class="research-topic">
-<h3>Generative Modeling</h3>
-<p>Energy-based generative models and optimal-transport training objectives for controllable sampling, learned priors, and composable generation.</p>
-</article>
-
-<article class="research-topic">
-<h3>Scientific AI / Inverse Problems</h3>
-<p>Physics-informed inverse methods for multimodal medical imaging and cancer modeling, including PDE- and elasticity-based priors.</p>
 </article>
 </div>
 
