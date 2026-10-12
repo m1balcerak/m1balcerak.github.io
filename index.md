@@ -26,8 +26,7 @@ I'm based in Boston, Massachusetts, USA.
 <h3>Graph Energy Matching accepted at NeurIPS 2026</h3>
 <time class="news-date" datetime="2026-10">October 2026</time>
 </div>
-<p>I'll be presenting GEM in Sydney this December. See you there!</p>
-<p class="highlight-links"><a href="{{ '/graph-energy-matching/' | relative_url }}">Project</a></p>
+<p>I'll be presenting GEM in Sydney this December. See you there! <span class="highlight-links">/ <a href="{{ '/graph-energy-matching/' | relative_url }}">Project</a></span></p>
 </div>
 </article>
 
@@ -44,10 +43,9 @@ I'm based in Boston, Massachusetts, USA.
 <article class="highlight-item highlight-item--text">
 <div class="highlight-copy">
 <div class="news-heading">
-<h3>Energy Matching reached 200 GitHub stars</h3>
+<h3>Energy Matching reached 200 GitHub stars <span class="highlight-links">/ <a href="https://github.com/m1balcerak/EnergyMatching">Code</a></span></h3>
 <time class="news-date" datetime="2026-01">January 2026</time>
 </div>
-<p class="highlight-links"><a href="https://github.com/m1balcerak/EnergyMatching">Code</a></p>
 </div>
 </article>
 </div>
