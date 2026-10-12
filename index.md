@@ -5,11 +5,11 @@ title: Michal Balcerak
 
 ## About Me
 
-My research focuses on probabilistic inference for generative modeling and inverse problems, combining optimal transport, energy-based models, and physics-informed priors.
+I am a Research Fellow at the Kempner Institute at Harvard University. My research focuses on probabilistic inference for generative modeling and inverse problems, combining optimal transport, energy-based models, and physics-informed priors.
 
 I completed my PhD in AI at the University of Zurich and ETH AI Center, advised by Prof. Bjoern Menze. Previously, I was a Fellow at Harvard University (2023-2024) in Prof. Petros Koumoutsakos's lab and worked at CERN (ATLAS), where I developed a machine-learning framework for collision-topology identification at the LHC.
 
-I'm currently based in Zürich, Switzerland.
+I'm based in Boston, Massachusetts, USA.
 
 <div class="profile-links">
 <p>Email: <code>m1balcerak[at]gmail.com</code></p>
@@ -22,15 +22,32 @@ I'm currently based in Zürich, Switzerland.
 <div class="news-highlights">
 <article class="highlight-item highlight-item--text">
 <div class="highlight-copy">
-<h3>Featured talk at Frontiers of Flows for Generative AI</h3>
-<p class="highlight-links"><strong>MFAI Workshop, Spring 2026, Carnegie Mellon University</strong> / <a href="https://cmu-l3.github.io/flows2026/">Workshop</a></p>
+<div class="news-heading">
+<h3>Graph Energy Matching accepted at NeurIPS 2026</h3>
+<time class="news-date" datetime="2026-10">October 2026</time>
+</div>
+<p>I'll be presenting GEM in Sydney this December. See you there!</p>
+<p class="highlight-links"><a href="{{ '/graph-energy-matching/' | relative_url }}">Project</a></p>
 </div>
 </article>
 
 <article class="highlight-item highlight-item--text">
 <div class="highlight-copy">
-<h3>Energy Matching crossed 200+ GitHub stars</h3>
-<p class="highlight-links"><strong>Highlight</strong> / <a href="https://github.com/m1balcerak/EnergyMatching">Code</a></p>
+<div class="news-heading">
+<h3>Featured talk at Frontiers of Flows for Generative AI</h3>
+<time class="news-date" datetime="2026-03">March 2026</time>
+</div>
+<p class="highlight-links"><strong>MFAI Workshop, Carnegie Mellon University</strong> / <a href="https://cmu-l3.github.io/flows2026/">Workshop</a></p>
+</div>
+</article>
+
+<article class="highlight-item highlight-item--text">
+<div class="highlight-copy">
+<div class="news-heading">
+<h3>Energy Matching reached 200 GitHub stars</h3>
+<time class="news-date" datetime="2026-01">January 2026</time>
+</div>
+<p class="highlight-links"><a href="https://github.com/m1balcerak/EnergyMatching">Code</a></p>
 </div>
 </article>
 </div>

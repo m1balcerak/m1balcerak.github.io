@@ -18,6 +18,13 @@ header .profile-photo {
   border-radius: 6px;
 }
 
+header .profile-role {
+  margin: 0 0 12px;
+  color: #333;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
 section {
   box-sizing: border-box;
   padding-left: 18px;
@@ -113,6 +120,21 @@ section h2:first-child {
 .highlight-item--text {
   display: block;
   padding: 13px 0;
+}
+
+.news-heading {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  column-gap: 16px;
+  align-items: start;
+}
+
+.news-date {
+  color: #777;
+  font-size: 13px;
+  line-height: 20px;
+  text-align: right;
+  white-space: nowrap;
 }
 
 .highlight-item--paper {
