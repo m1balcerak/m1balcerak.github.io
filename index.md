@@ -9,7 +9,7 @@ I am a Research Fellow at the Kempner Institute at Harvard University. I study t
 
 I completed my PhD in AI at the University of Zurich and ETH AI Center, advised by Prof. Bjoern Menze. Previously, I was a Fellow at Harvard University (2023-2024) in Prof. Petros Koumoutsakos's lab and worked at CERN (ATLAS), where I developed a machine-learning framework for collision-topology identification at the LHC.
 
-I'm based in Boston, Massachusetts, USA.
+I'm based in Cambridge, MA, USA.
 
 <div class="profile-links">
 <p>Email: <code>m1balcerak[at]gmail.com</code></p>
