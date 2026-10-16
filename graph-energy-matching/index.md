@@ -59,6 +59,10 @@ GEM learns a scalar energy landscape over graphs and samples through transport-a
 
 <img class="project-hero-image" src="{{ '/assets/news/gem_moses_animation.gif' | relative_url }}" alt="Graph Energy Matching MOSES sampling animation">
 
+## Other discrete domains
+
+The discrete proposals introduced in GEM also apply to general discrete domains, as illustrated by this [Sudoku solver](https://michalbalcerak.ai/assets/sudoku/).
+
 ## Citation
 
 ```bibtex
@@ -69,5 +73,3 @@ GEM learns a scalar energy landscape over graphs and samples through transport-a
   year={2026}
 }
 ```
-
-The discrete proposals introduced in GEM also apply to general discrete domains, as illustrated by this [Sudoku solver](https://michalbalcerak.ai/assets/sudoku/).
