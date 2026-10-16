@@ -69,3 +69,5 @@ GEM learns a scalar energy landscape over graphs and samples through transport-a
   year={2026}
 }
 ```
+
+The discrete proposals introduced in GEM also apply to general discrete domains, as illustrated by this [Sudoku solver](https://michalbalcerak.ai/assets/sudoku/).
