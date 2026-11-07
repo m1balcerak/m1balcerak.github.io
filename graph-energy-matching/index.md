@@ -23,9 +23,9 @@ citation:
 
 **Transport-Aligned Energy-Based Modeling for Graph Generation**
 
-<p class="project-authors"><a href="https://michalbalcerak.ai/">Michal Balcerak</a><sup>1</sup>, <a href="https://www.dqbm.uzh.ch/en/research/menze/team/team-supro.html">Suprosanna Shit</a><sup>1</sup>, <a href="https://www.dqbm.uzh.ch/en/research/menze/team/team-chinmay.html">Chinmay Prabhakar</a><sup>1</sup>, <a href="https://seas.harvard.edu/person/sebastian-kaltenbach">Sebastian Kaltenbach</a><sup>2</sup>, <a href="https://malbergo.me/">Michael S. Albergo</a><sup>2,3</sup>, <a href="https://yilundu.github.io/">Yilun Du</a><sup>2,3,†</sup>, <a href="https://www.dqbm.uzh.ch/en/research/menze.html">Bjoern Menze</a><sup>1,†</sup></p>
+<p class="project-authors"><a href="https://michalbalcerak.ai/">Michal Balcerak</a><sup>1,2</sup>, <a href="https://www.dqbm.uzh.ch/en/research/menze/team/team-supro.html">Suprosanna Shit</a><sup>3</sup>, <a href="https://www.dqbm.uzh.ch/en/research/menze/team/team-chinmay.html">Chinmay Prabhakar</a><sup>3</sup>, <a href="https://seas.harvard.edu/person/sebastian-kaltenbach">Sebastian Kaltenbach</a><sup>1</sup>, <a href="https://malbergo.me/">Michael S. Albergo</a><sup>1,2</sup>, <a href="https://yilundu.github.io/">Yilun Du</a><sup>1,2,†</sup>, <a href="https://www.dqbm.uzh.ch/en/research/menze.html">Bjoern Menze</a><sup>3,†</sup></p>
 
-<p class="project-affiliations"><sup>1</sup> University of Zurich · <sup>2</sup> Harvard University · <sup>3</sup> Kempner Institute</p>
+<p class="project-affiliations"><sup>1</sup> Harvard University · <sup>2</sup> Kempner Institute · <sup>3</sup> University of Zurich</p>
 <p class="project-author-note"><sup>†</sup> equal advising.</p>
 
 <p class="project-venue"><strong>NeurIPS 2026</strong></p>
