@@ -56,7 +56,7 @@ I'm based in Cambridge, MA, USA.
 <article class="highlight-item highlight-item--paper">
 <div class="highlight-copy">
 <h3>Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation</h3>
-<p class="highlight-authors"><span class="author-me">Michal Balcerak</span>, Suprosanna Shit, Chinmay Prabhakar, Sebastian Kaltenbach, Michael S. Albergo, Yilun Du<sup>†</sup>, Bjoern Menze<sup>†</sup></p>
+<p class="highlight-authors"><span class="author-me">Michal Balcerak</span><sup title="University of Zurich">3</sup>, Suprosanna Shit, Chinmay Prabhakar, Sebastian Kaltenbach, Michael S. Albergo, Yilun Du<sup>†</sup>, Bjoern Menze<sup>†</sup></p>
 <p class="author-note"><sup>†</sup> equal advising.</p>
 <p class="highlight-links"><strong>NeurIPS 2026</strong> / <a href="{{ '/graph-energy-matching/' | relative_url }}">Project</a> / <a href="https://arxiv.org/pdf/2603.23398">Paper</a> / <a href="https://github.com/m1balcerak/GraphEnergyMatching">Code</a></p>
 </div>
